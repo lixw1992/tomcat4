@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/catalina-ant.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/catalina.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-beanutils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-digester.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-fileupload-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-logging.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-modeler.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jaas.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jakarta-regexp-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/mx4j-jmx.jar!/" />
+    <libelement value="file://C:\develop\sourceFile\tomcat4-master\lib\servlets-cgi.renametojar" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlets-common.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlets-default.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlets-invoker.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlets-manager.jar!/" />
+    <libelement value="file://C:\develop\sourceFile\tomcat4-master\lib\servlets-ssi.renametojar" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlets-webdav.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-coyote.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-http11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-jk.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-jk2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-warp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlet-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apache-ant-1.8.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-daemon-1.0.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javax.mail-api-1.6.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tyrex-1.0.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jta-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-collections-3.2.2.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="jdk1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="catalina-ant.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/catalina-ant.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="catalina.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/catalina.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-beanutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-digester.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-fileupload-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-modeler.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-modeler.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaas.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jaas.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jakarta-regexp-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jakarta-regexp-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mx4j-jmx.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mx4j-jmx.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-cgi.renametojar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/servlets-cgi.renametojar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-common.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlets-common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-default.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlets-default.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-invoker.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlets-invoker.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-manager.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlets-manager.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-ssi.renametojar">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/servlets-ssi.renametojar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlets-webdav.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlets-webdav.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-coyote.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-coyote.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-http11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-http11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-jk.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-jk.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-jk2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-jk2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-util.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-warp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-warp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apache-ant-1.8.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/apache-ant-1.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-daemon-1.0.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-daemon-1.0.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.mail-api-1.6.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax.mail-api-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tyrex-1.0.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tyrex-1.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jta-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-collections-3.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
